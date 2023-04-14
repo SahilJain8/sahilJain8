@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahiljain8" alt="sahiljain8" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 - 🔭 I’m currently working on **Image Style Transfer using GANS(Mlops)**
 
 - 🌱 I’m currently learning **Jenkins,Kuberntes**
