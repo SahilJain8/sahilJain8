@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MLOPS for GANS<br>👯 I’m looking To collaborate on Deep learning/Devops<br>🤝 I’m looking for help with  <br>🌱 I’m currently learning  gRPC (Google Remote Procedure Call)<br>💬 Ask me about  Deep learning/backend/Django<br>
+🔭 I’m currently working on MLOPS for GANS<br>👯 I’m looking To collaborate on Deep learning/Devops/Backend<br>🤝 I’m looking for help with  <br>🌱 I’m currently learning  gRPC (Google Remote Procedure Call)<br>💬 Ask me about  Deep learning/backend/Django<br>
 
 
 ## 🌐 Socials:
